@@ -1,5 +1,6 @@
 ## Hi there 👋
 
+[![MasterHead]([your image link](https://cdn.britannica.com/70/234870-050-D4D024BB/Orange-colored-cat-yawns-displaying-teeth.jpg))]([your GitHub link](https://github.com/JeffHalley))
 <!--
 **JeffHalley/JeffHalley** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
