@@ -4,7 +4,7 @@
 
 ### 🧑‍💻 About Me
 
-- 🎓 I’m a second-year student studying Bachelor of Science (Honours) in Computer Science (Common Entry), specialising in the Internet of Things (IoT) at South East Technological University.
+- 🎓 I’m a Third-year student studying Bachelor of Science (Honours) in Computer Science (Common Entry), specialising in the Internet of Things (IoT) at South East Technological University.
 - 💡 Passionate about integrating hardware and software to create innovative IoT solutions.
 - 🌱 Currently learning about embedded systems, sensor networks, and data analytics.
 
